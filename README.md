@@ -15,7 +15,7 @@ Focused on writing clean, production-thinking code that solves real data problem
 - Power BI
 - Excel
 
----
+----
 
 ## 📊 Featured Projects
 
@@ -31,7 +31,7 @@ Database design and SQL queries simulating an online bookstore system.
 Interactive Power BI dashboard analyzing sales performance.
 👉 [View Project](https://github.com/nileshraut-analytics/powerbi-sales-performance-dashboard)
 
----
+----
 
 ## 📫 Contact
 📧 nr9837191@gmail.com
